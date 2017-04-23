@@ -1,7 +1,7 @@
 # cg_homework5
 # Homework 5: Views & Perspective
-#注释中是2.3与2.3题
-2.2 Projections
+# 注释中是2.3与2.3题
+# 2.2 Projections
 
 Projection define how a virtual 3D world projects into a 2D screen such that we can see it. There are 2 kinds of projections are used in OpenGL: perspective projection and orthographic projection.
 
